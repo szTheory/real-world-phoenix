@@ -2,3 +2,59 @@
 	path = apps/tune
 	url = git@github.com:fully-forged/tune.git
 	branch = master
+[submodule "apps/constable"]
+	path = apps/constable
+	url = git@github.com:thoughtbot/constable.git
+	branch = master
+[submodule "apps/elixirstatus"]
+	path = apps/elixirstatus
+	url = git@github.com:rrrene/elixirstatus-web.git
+	branch = master
+[submodule "apps/firestorm"]
+	path = apps/firestorm
+	url = git@github.com:firestormforum/firestorm.git
+	branch = master
+[submodule "apps/magnetissimo"]
+	path = apps/magnetissimo
+	url = git@github.com:sergiotapia/magnetissimo.git
+	branch = master
+[submodule "apps/hexpm"]
+	path = apps/hexpm
+	url = git@github.com:hexpm/hexpm.git
+	branch = master
+[submodule "apps/changelog"]
+	path = apps/changelog
+	url = git@github.com:thechangelog/changelog.com.git
+	branch = master
+[submodule "apps/evercam-server"]
+	path = apps/evercam-server
+	url = git@github.com:evercam/evercam-server.git
+	branch = master
+[submodule "apps/vutuv"]
+	path = apps/vutuv
+	url = git@github.com:vutuv/vutuv.git
+	branch = master
+[submodule "apps/loopa-news"]
+	path = apps/loopa-news
+	url = git@github.com:Angarsk8/Loopa-News.git
+	branch = master
+[submodule "apps/remote-retro"]
+	path = apps/remote-retro
+	url = git@github.com:stride-nyc/remote_retro.git
+	branch = master
+[submodule "apps/tilex"]
+	path = apps/tilex
+	url = git@github.com:hashrocket/tilex.git
+	branch = master
+[submodule "apps/code-corps-api"]
+	path = apps/code-corps-api
+	url = git@github.com:code-corps/code-corps-api.git
+	branch = master
+[submodule "apps/trello"]
+	path = apps/trello
+	url = git@github.com:bigardone/phoenix-trello.git
+	branch = master
+[submodule "apps/exventure"]
+	path = apps/exventure
+	url = git@github.com:oestrich/ex_venture.git
+	branch = master
