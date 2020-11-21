@@ -58,3 +58,19 @@
 	path = apps/exventure
 	url = git@github.com:oestrich/ex_venture.git
 	branch = master
+[submodule "apps/runhyve"]
+	path = apps/runhyve
+	url = git@github.com:runhyve/webapp.git
+	branch = master
+[submodule "apps/csv2sql"]
+	path = apps/csv2sql
+	url = git@github.com:Arp-G/csv2sql.git
+	branch = master
+[submodule "apps/phoenix-ecto-encryption-example"]
+	path = apps/phoenix-ecto-encryption-example
+	url = git@github.com:dwyl/phoenix-ecto-encryption-example.git
+	branch = master
+[submodule "apps/workbench"]
+	path = apps/workbench
+	url = git@github.com:fremantle-industries/workbench.git
+	branch = master
