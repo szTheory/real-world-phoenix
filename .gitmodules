@@ -1,3 +1,4 @@
 [submodule "apps/tune"]
 	path = apps/tune
 	url = git@github.com:fully-forged/tune.git
+	branch = master
