@@ -49,6 +49,7 @@ git submodule foreach git pull origin master
 ## Other Real World Codebase Collections
 
 - [Real World Erlang Apps](https://github.com/szTheory/real-world-erlang-apps)
+- [Real World Elixir Apps](https://github.com/szTheory/real-world-elixir-apps)
 - [Real World Plug](https://github.com/szTheory/real-world-plug)
 - [Real World Rails](https://github.com/eliotsykes/real-world-rails)
 - [Real World Sinatra](https://github.com/jeromedalbert/real-world-sinatra)

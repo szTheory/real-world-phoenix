@@ -78,3 +78,11 @@
 	path = apps/reactive-interaction-gateway
 	url = https://github.com/Accenture/reactive-interaction-gateway
 	branch = master
+[submodule "apps/conduit"]
+	path = apps/conduit
+	url = git@github.com:slashdotdash/conduit.git
+	branch = master
+[submodule "apps/moba"]
+	path = apps/moba
+	url = git@github.com:pedromtavares/moba.git
+	branch = master
