@@ -94,3 +94,15 @@
 	path = apps/todo-list-tutorial
 	url = git@github.com:dwyl/phoenix-todo-list-tutorial.git
 	branch = master
+[submodule "apps/adoptoposs"]
+	path = apps/adoptoposs
+	url = git@github.com:adoptoposs/adoptoposs.git
+	branch = master
+[submodule "apps/deep-work-hours"]
+	path = apps/deep-work-hours
+	url = git@github.com:co0lsky/deep-work-hours-phoenix.git
+	branch = master
+[submodule "apps/phoenix-live-dashboard"]
+	path = apps/phoenix-live-dashboard
+	url = https://github.com/phoenixframework/phoenix_live_dashboard/
+	branch = master
