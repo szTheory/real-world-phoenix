@@ -106,3 +106,43 @@
 	path = apps/phoenix-live-dashboard
 	url = https://github.com/phoenixframework/phoenix_live_dashboard/
 	branch = master
+[submodule "apps/liveview-counter-tutorial"]
+	path = apps/liveview-counter-tutorial
+	url = git@github.com:dwyl/phoenix-liveview-counter-tutorial.git
+	branch = master
+[submodule "apps/discussion"]
+	path = apps/discussion
+	url = git@github.com:geoffsan/discussion.git
+	branch = master
+[submodule "apps/elixir-console"]
+	path = apps/elixir-console
+	url = git@github.com:wyeworks/elixir_console.git
+	branch = master
+[submodule "apps/grapevine"]
+	path = apps/grapevine
+	url = https://github.com/oestrich/grapevine
+	branch = master
+[submodule "apps/httping"]
+	path = apps/httping
+	url = git@github.com:moomerman/httping.git
+	branch = master
+[submodule "apps/sms-im"]
+	path = apps/sms-im
+	url = git@github.com:b-erdem/sms-im.git
+	branch = master
+[submodule "apps/hex-diff"]
+	path = apps/hex-diff
+	url = https://github.com/hexpm/diff
+	branch = master
+[submodule "apps/teslamate"]
+	path = apps/teslamate
+	url = git@github.com:adriankumpf/teslamate.git
+	branch = master
+[submodule "apps/boilerplate"]
+	path = apps/boilerplate
+	url = git@github.com:mirego/elixir-boilerplate.git
+	branch = master
+[submodule "apps/gitlab-monitor"]
+	path = apps/gitlab-monitor
+	url = git@github.com:juanpabloaj/phoenix_gitlab_monitor.git
+	branch = master
