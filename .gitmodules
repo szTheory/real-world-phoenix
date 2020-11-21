@@ -90,3 +90,7 @@
 	path = apps/regex-tester-http-sink
 	url = git@github.com:zestcreative/elixir-utilities-web.git
 	branch = master
+[submodule "apps/todo-list-tutorial"]
+	path = apps/todo-list-tutorial
+	url = git@github.com:dwyl/phoenix-todo-list-tutorial.git
+	branch = master
