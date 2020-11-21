@@ -86,3 +86,7 @@
 	path = apps/moba
 	url = git@github.com:pedromtavares/moba.git
 	branch = master
+[submodule "apps/regex-tester-http-sink"]
+	path = apps/regex-tester-http-sink
+	url = git@github.com:zestcreative/elixir-utilities-web.git
+	branch = master
