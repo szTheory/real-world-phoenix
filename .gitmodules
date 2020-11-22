@@ -146,3 +146,27 @@
 	path = apps/gitlab-monitor
 	url = git@github.com:juanpabloaj/phoenix_gitlab_monitor.git
 	branch = master
+[submodule "apps/accent"]
+	path = apps/accent
+	url = git@github.com:mirego/accent.git
+	branch = master
+[submodule "apps/realworld-example"]
+	path = apps/realworld-example
+	url = git@github.com:gothinkster/elixir-phoenix-realworld-example-app.git
+	branch = master
+[submodule "apps/open-pantry"]
+	path = apps/open-pantry
+	url = git@github.com:openpantry/open_pantry.git
+	branch = master
+[submodule "apps/mango-ecommerce"]
+	path = apps/mango-ecommerce
+	url = git@github.com:shankardevy/mango.git
+	branch = master
+[submodule "apps/bors-ng-github-pull-request-merge-bot"]
+	path = apps/bors-ng-github-pull-request-merge-bot
+	url = git@github.com:bors-ng/bors-ng.git
+	branch = master
+[submodule "apps/revelry-phoenix-app-template"]
+	path = apps/revelry-phoenix-app-template
+	url = git@github.com:revelrylabs/revelry_phoenix_app_template.git
+	branch = master
