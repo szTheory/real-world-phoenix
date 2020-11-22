@@ -170,3 +170,7 @@
 	path = apps/revelry-phoenix-app-template
 	url = git@github.com:revelrylabs/revelry_phoenix_app_template.git
 	branch = master
+[submodule "apps/uai-shot-game"]
+	path = apps/uai-shot-game
+	url = git@github.com:sergioaugrod/uai_shot.git
+	branch = master
