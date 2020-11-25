@@ -174,3 +174,7 @@
 	path = apps/uai-shot-game
 	url = git@github.com:sergioaugrod/uai_shot.git
 	branch = master
+[submodule "apps/ecto-encryption-example"]
+	path = apps/ecto-encryption-example
+	url = git@github.com:dwyl/phoenix-ecto-encryption-example.git
+	branch = master
