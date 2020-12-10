@@ -178,3 +178,11 @@
 	path = apps/ecto-encryption-example
 	url = git@github.com:dwyl/phoenix-ecto-encryption-example.git
 	branch = master
+[submodule "apps/plausible-analytics"]
+	path = apps/plausible-analytics
+	url = git@github.com:plausible/analytics.git
+	branch = master
+[submodule "apps/bytepack"]
+	path = apps/bytepack
+	url = git@github.com:dashbitco/bytepack_archive.git
+	branch = main
