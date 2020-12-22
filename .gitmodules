@@ -186,3 +186,6 @@
 	path = apps/bytepack
 	url = git@github.com:dashbitco/bytepack_archive.git
 	branch = main
+[submodule "apps/kandesk"]
+	path = apps/kandesk
+	url = git@github.com:seb3s/kandesk.git
