@@ -189,3 +189,9 @@
 [submodule "apps/kandesk"]
 	path = apps/kandesk
 	url = git@github.com:seb3s/kandesk.git
+[submodule "apps/meliodas-dashboard"]
+	path = apps/meliodas-dashboard
+	url = git@github.com:ahsandar/meliodas.git
+[submodule "apps/mazes-generator"]
+	path = apps/mazes-generator
+	url = git@github.com:angelikatyborska/mazes.git
