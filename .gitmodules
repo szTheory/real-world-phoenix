@@ -195,3 +195,9 @@
 [submodule "apps/mazes-generator"]
 	path = apps/mazes-generator
 	url = git@github.com:angelikatyborska/mazes.git
+[submodule "apps/chinese-checkers-web"]
+	path = apps/chinese-checkers-web
+	url = git@github.com:denvaar/board_games.git
+[submodule "apps/chinese-checkers"]
+	path = apps/chinese-checkers
+	url = git@github.com:denvaar/sternhalma.git
