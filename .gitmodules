@@ -201,3 +201,6 @@
 [submodule "apps/chinese-checkers"]
 	path = apps/chinese-checkers
 	url = git@github.com:denvaar/sternhalma.git
+[submodule "apps/backoffice-admin"]
+	path = apps/backoffice-admin
+	url = git@github.com:edisonywh/backoffice.git
