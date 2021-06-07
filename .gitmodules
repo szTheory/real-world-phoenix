@@ -204,3 +204,11 @@
 [submodule "apps/backoffice-admin"]
 	path = apps/backoffice-admin
 	url = git@github.com:edisonywh/backoffice.git
+[submodule "apps/reticulum-vr-chat"]
+	path = apps/reticulum-vr-chat
+	url = git@github.com:mozilla/reticulum.git
+	branch = master
+[submodule "apps/papercup-customer-live-chat"]
+	path = apps/papercup-customer-live-chat
+	url = git@github.com:papercups-io/papercups.git
+	branch = master
