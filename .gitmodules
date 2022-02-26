@@ -216,3 +216,7 @@
 	path = apps/phoenix_live_view_collection
 	url = git@github.com:leandrocp/phoenix_live_view_collection.git
 	branch = main
+[submodule "apps/keila"]
+	path = apps/keila
+	url = git@github.com:pentacent/keila.git
+	branch = main
