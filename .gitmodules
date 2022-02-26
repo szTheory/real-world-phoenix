@@ -236,3 +236,7 @@
 	path = apps/blockscout
 	url = https://github.com/blockscout/blockscout.git
 	branch = master
+[submodule "apps/pleroma"]
+	path = apps/pleroma
+	url = https://git.pleroma.social/pleroma/pleroma.git
+	branch = develop
