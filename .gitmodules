@@ -220,3 +220,7 @@
 	path = apps/keila
 	url = git@github.com:pentacent/keila.git
 	branch = main
+[submodule "apps/live_beats"]
+	path = apps/live_beats
+	url = git@github.com:fly-apps/live_beats.git
+	branch = master
