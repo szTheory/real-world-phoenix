@@ -224,3 +224,7 @@
 	path = apps/live_beats
 	url = git@github.com:fly-apps/live_beats.git
 	branch = master
+[submodule "apps/tribes"]
+	path = apps/tribes
+	url = https://gitlab.com/tribes-host/tribes.git
+	branch = develop
