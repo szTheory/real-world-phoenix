@@ -228,3 +228,7 @@
 	path = apps/tribes
 	url = https://gitlab.com/tribes-host/tribes.git
 	branch = develop
+[submodule "apps/bytepack_archive"]
+	path = apps/bytepack_archive
+	url = https://github.com/dashbitco/bytepack_archive
+	branch = main
