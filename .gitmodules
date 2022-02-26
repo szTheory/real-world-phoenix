@@ -232,3 +232,7 @@
 	path = apps/bytepack_archive
 	url = https://github.com/dashbitco/bytepack_archive
 	branch = main
+[submodule "apps/blockscout"]
+	path = apps/blockscout
+	url = https://github.com/blockscout/blockscout.git
+	branch = master
