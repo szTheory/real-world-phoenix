@@ -10,6 +10,8 @@ Thank you to every developer who has worked on a project this repo links to, you
 
 ## How to install on your computer
 
+NOTE: Don't open this repo in trusted mode in VS Code or the Elixir LS extension will use up all of your CPU trying to analyze all of the code.
+
 ```bash
 # Clone this git repo:
 git clone git@github.com:szTheory/real-world-phoenix.git
