@@ -276,3 +276,7 @@
 	path = apps/slurpee
 	url = https://github.com/fremantle-industries/slurpee.git
 	branch = main
+[submodule "apps/rube"]
+	path = apps/rube
+	url = https://github.com/fremantle-industries/rube.git
+	branch = main
