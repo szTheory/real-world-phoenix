@@ -244,10 +244,6 @@
 	path = apps/erlef-website
 	url = https://github.com/erlef/website.git
 	branch = main
-[submodule "apps/open_pantry"]
-	path = apps/open_pantry
-	url = https://github.com/openpantry/open_pantry.git
-	branch = master
 [submodule "apps/school_house"]
 	path = apps/school_house
 	url = https://github.com/elixirschool/school_house.git
