@@ -244,8 +244,8 @@
 	path = apps/elixir-companies
 	url = https://github.com/beam-community/elixir-companies.git
 	branch = master
-[submodule "apps/website"]
-	path = apps/website
+[submodule "apps/erlef-website"]
+	path = apps/erlef-website
 	url = https://github.com/erlef/website.git
 	branch = main
 [submodule "apps/open_pantry"]
@@ -259,10 +259,6 @@
 [submodule "apps/admissions"]
 	path = apps/admissions
 	url = https://github.com/elixirschool/admissions.git
-	branch = master
-[submodule "apps/elixirschool"]
-	path = apps/elixirschool
-	url = https://github.com/elixirschool/elixirschool.git
 	branch = master
 [submodule "apps/bonfire"]
 	path = apps/bonfire
