@@ -272,3 +272,7 @@
 	path = apps/hygeia
 	url = https://github.com/jshmrtn/hygeia.git
 	branch = main
+[submodule "apps/slurpee"]
+	path = apps/slurpee
+	url = https://github.com/fremantle-industries/slurpee.git
+	branch = main
