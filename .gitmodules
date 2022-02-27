@@ -248,3 +248,7 @@
 	path = apps/website
 	url = https://github.com/erlef/website.git
 	branch = main
+[submodule "apps/open_pantry"]
+	path = apps/open_pantry
+	url = https://github.com/openpantry/open_pantry.git
+	branch = master
