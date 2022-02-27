@@ -212,3 +212,71 @@
 	path = apps/papercup-customer-live-chat
 	url = git@github.com:papercups-io/papercups.git
 	branch = master
+[submodule "apps/phoenix_live_view_collection"]
+	path = apps/phoenix_live_view_collection
+	url = git@github.com:leandrocp/phoenix_live_view_collection.git
+	branch = main
+[submodule "apps/keila"]
+	path = apps/keila
+	url = git@github.com:pentacent/keila.git
+	branch = main
+[submodule "apps/live_beats"]
+	path = apps/live_beats
+	url = git@github.com:fly-apps/live_beats.git
+	branch = master
+[submodule "apps/tribes"]
+	path = apps/tribes
+	url = https://gitlab.com/tribes-host/tribes.git
+	branch = develop
+[submodule "apps/bytepack_archive"]
+	path = apps/bytepack_archive
+	url = https://github.com/dashbitco/bytepack_archive
+	branch = main
+[submodule "apps/blockscout"]
+	path = apps/blockscout
+	url = https://github.com/blockscout/blockscout.git
+	branch = master
+[submodule "apps/pleroma"]
+	path = apps/pleroma
+	url = https://git.pleroma.social/pleroma/pleroma.git
+	branch = develop
+[submodule "apps/elixir-companies"]
+	path = apps/elixir-companies
+	url = https://github.com/beam-community/elixir-companies.git
+	branch = master
+[submodule "apps/website"]
+	path = apps/website
+	url = https://github.com/erlef/website.git
+	branch = main
+[submodule "apps/open_pantry"]
+	path = apps/open_pantry
+	url = https://github.com/openpantry/open_pantry.git
+	branch = master
+[submodule "apps/school_house"]
+	path = apps/school_house
+	url = https://github.com/elixirschool/school_house.git
+	branch = master
+[submodule "apps/admissions"]
+	path = apps/admissions
+	url = https://github.com/elixirschool/admissions.git
+	branch = master
+[submodule "apps/elixirschool"]
+	path = apps/elixirschool
+	url = https://github.com/elixirschool/elixirschool.git
+	branch = master
+[submodule "apps/bonfire"]
+	path = apps/bonfire
+	url = https://github.com/qhwa/bonfire.git
+	branch = master
+[submodule "apps/hygeia"]
+	path = apps/hygeia
+	url = https://github.com/jshmrtn/hygeia.git
+	branch = main
+[submodule "apps/slurpee"]
+	path = apps/slurpee
+	url = https://github.com/fremantle-industries/slurpee.git
+	branch = main
+[submodule "apps/rube"]
+	path = apps/rube
+	url = https://github.com/fremantle-industries/rube.git
+	branch = main
