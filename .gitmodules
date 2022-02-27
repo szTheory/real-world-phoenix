@@ -26,10 +26,6 @@
 	path = apps/changelog
 	url = git@github.com:thechangelog/changelog.com.git
 	branch = master
-[submodule "apps/evercam-server"]
-	path = apps/evercam-server
-	url = git@github.com:evercam/evercam-server.git
-	branch = master
 [submodule "apps/vutuv"]
 	path = apps/vutuv
 	url = git@github.com:vutuv/vutuv.git
