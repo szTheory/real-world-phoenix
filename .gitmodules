@@ -240,3 +240,7 @@
 	path = apps/pleroma
 	url = https://git.pleroma.social/pleroma/pleroma.git
 	branch = develop
+[submodule "apps/elixir-companies"]
+	path = apps/elixir-companies
+	url = https://github.com/beam-community/elixir-companies.git
+	branch = master
