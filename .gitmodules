@@ -256,3 +256,7 @@
 	path = apps/school_house
 	url = https://github.com/elixirschool/school_house.git
 	branch = master
+[submodule "apps/admissions"]
+	path = apps/admissions
+	url = https://github.com/elixirschool/admissions.git
+	branch = master
