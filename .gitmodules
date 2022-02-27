@@ -264,3 +264,7 @@
 	path = apps/elixirschool
 	url = https://github.com/elixirschool/elixirschool.git
 	branch = master
+[submodule "apps/bonfire"]
+	path = apps/bonfire
+	url = https://github.com/qhwa/bonfire.git
+	branch = master
