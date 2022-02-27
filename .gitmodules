@@ -244,3 +244,7 @@
 	path = apps/elixir-companies
 	url = https://github.com/beam-community/elixir-companies.git
 	branch = master
+[submodule "apps/website"]
+	path = apps/website
+	url = https://github.com/erlef/website.git
+	branch = main
