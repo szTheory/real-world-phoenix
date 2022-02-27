@@ -252,3 +252,7 @@
 	path = apps/open_pantry
 	url = https://github.com/openpantry/open_pantry.git
 	branch = master
+[submodule "apps/school_house"]
+	path = apps/school_house
+	url = https://github.com/elixirschool/school_house.git
+	branch = master
