@@ -8,6 +8,9 @@ You'll find the source code for the Real World Phoenix apps in the [`apps/`](app
 
 Thank you to every developer who has worked on a project this repo links to, your work is helping developers learn Phoenix.
 
+## Additional Requirements
+- [git-lfs](https://git-lfs.github.com/)
+
 ## How to install on your computer
 
 NOTE: Don't open this repo in trusted mode in VS Code or the Elixir LS extension will use up all of your CPU trying to analyze all of the code.
@@ -20,13 +23,12 @@ cd real-world-phoenix/
 
 # The apps are linked to as git submodules.
 # This will take some time... (see comment below for possible speedup)
-git submodule update --init
+# We add `GIT_LFS_SKIP_SMUDGE=1` to prevent downloading lfs files which are not required and can use a repo's Github quota for bandwidth
+GIT_LFS_SKIP_SMUDGE=1 git submodule update --init
 
 # OR if you've got git 2.9+ installed try to run updates in parallel:
-# git submodule update --init --jobs 4
+# GIT_LFS_SKIP_SMUDGE=1 git submodule update --init --jobs 4
 ```
-
-NOTE: Some repos may require [git-lfs](https://git-lfs.github.com/) to clone properly if they have contain binary files.
 
 ## Information for Contributors
 
