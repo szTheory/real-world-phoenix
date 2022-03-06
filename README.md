@@ -26,6 +26,8 @@ git submodule update --init
 # git submodule update --init --jobs 4
 ```
 
+NOTE: Some repos may require [git-lfs](https://git-lfs.github.com/) to clone properly if they have contain binary files.
+
 ## Information for Contributors
 
 ### How to add a Real World App
