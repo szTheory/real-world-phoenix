@@ -26,7 +26,17 @@ git submodule update --init
 # git submodule update --init --jobs 4
 ```
 
-NOTE: Some repos may require [git-lfs](https://git-lfs.github.com/) to clone properly if they have contain binary files.
+NOTE: Some repos may require [git-lfs](https://git-lfs.github.com/) to clone properly if they have contain binary files. If you get an error like this:
+
+```sh
+Smudge error: Error downloading docs/live-balance-snapshots.mov (7f2d89059a5438c5936397d8916e4c71407a853a7acad2734b9745fc3460db61): batch response: This repository is over its data quota. Account responsible for LFS bandwidth should purchase more data packs to restore access.
+```
+
+Then use this command for git submodule init:
+
+```sh
+GIT_LFS_SKIP_SMUDGE=1 git submodule update --init
+```
 
 ## Information for Contributors
 
