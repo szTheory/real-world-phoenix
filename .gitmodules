@@ -100,7 +100,7 @@
 	branch = master
 [submodule "apps/phoenix-live-dashboard"]
 	path = apps/phoenix-live-dashboard
-	url = https://github.com/phoenixframework/phoenix_live_dashboard/
+	url = https://github.com/phoenixframework/phoenix_live_dashboard
 	branch = master
 [submodule "apps/liveview-counter-tutorial"]
 	path = apps/liveview-counter-tutorial
