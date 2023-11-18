@@ -268,3 +268,7 @@
 	path = apps/rube
 	url = https://github.com/fremantle-industries/rube.git
 	branch = main
+[submodule "apps/uneebee"]
+	path = apps/uneebee
+	url = git@github.com:zoonk/uneebee.git
+	branch = main
