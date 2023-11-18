@@ -268,3 +268,7 @@
 	path = apps/rube
 	url = https://github.com/fremantle-industries/rube.git
 	branch = main
+[submodule "apps/ash_hq"]
+	path = apps/ash_hq
+	url = git@github.com:ash-project/ash_hq.git
+	branch = main
