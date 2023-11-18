@@ -268,3 +268,7 @@
 	path = apps/rube
 	url = https://github.com/fremantle-industries/rube.git
 	branch = main
+[submodule "apps/beacon"]
+	path = apps/beacon
+	url = git@github.com:BeaconCMS/beacon.git
+	branch = main
