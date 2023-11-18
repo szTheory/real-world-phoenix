@@ -268,3 +268,7 @@
 	path = apps/rube
 	url = https://github.com/fremantle-industries/rube.git
 	branch = main
+[submodule "apps/midas"]
+	path = apps/midas
+	url = git@github.com:T0ha/midas.git
+	branch = main
