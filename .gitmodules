@@ -268,3 +268,7 @@
 	path = apps/rube
 	url = https://github.com/fremantle-industries/rube.git
 	branch = main
+[submodule "apps/midarr-server"]
+	path = apps/midarr-server
+	url = git@github.com:midarrlabs/midarr-server.git
+	branch = master
