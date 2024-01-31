@@ -272,3 +272,7 @@
 	path = apps/uneebee
 	url = git@github.com:zoonk/uneebee.git
 	branch = main
+[submodule "apps/oli-torus"]
+	path = apps/oli-torus
+	url = https://github.com/Simon-Initiative/oli-torus.git
+	branch = master

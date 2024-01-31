@@ -64,6 +64,7 @@ git submodule foreach git pull origin master
 - [Real World Ruby Apps](https://github.com/jeromedalbert/real-world-ruby-apps)
 - [Real World React](https://github.com/jeromedalbert/real-world-react)
 - [Real World Ember](https://github.com/eliotsykes/real-world-ember)
+- [Real World Django](https://github.com/ckrybus/real-world-django)
 - Know any others? Please open a PR and add the link here
 
 ---
